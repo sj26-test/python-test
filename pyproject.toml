@@ -1,0 +1,9 @@
+[project]
+name = "python-test"
+version = "0.1.0"
+description = "Simple test application"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.0.3",
+]
